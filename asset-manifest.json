@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/restaurant/static/css/main.1ea739ad.chunk.css",
+    "main.js": "/restaurant/static/js/main.98fe6301.chunk.js",
+    "main.js.map": "/restaurant/static/js/main.98fe6301.chunk.js.map",
+    "runtime-main.js": "/restaurant/static/js/runtime-main.0d0fba5f.js",
+    "runtime-main.js.map": "/restaurant/static/js/runtime-main.0d0fba5f.js.map",
+    "static/js/2.f671bff2.chunk.js": "/restaurant/static/js/2.f671bff2.chunk.js",
+    "static/js/2.f671bff2.chunk.js.map": "/restaurant/static/js/2.f671bff2.chunk.js.map",
+    "static/js/3.bfb50b94.chunk.js": "/restaurant/static/js/3.bfb50b94.chunk.js",
+    "static/js/3.bfb50b94.chunk.js.map": "/restaurant/static/js/3.bfb50b94.chunk.js.map",
+    "index.html": "/restaurant/index.html",
+    "static/css/main.1ea739ad.chunk.css.map": "/restaurant/static/css/main.1ea739ad.chunk.css.map",
+    "static/js/2.f671bff2.chunk.js.LICENSE.txt": "/restaurant/static/js/2.f671bff2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/restaurant/static/media/Spartan-SemiBold.88d40279.ttf",
+    "static/media/family-gathering-desktop.03b16029.jpg": "/restaurant/static/media/family-gathering-desktop.03b16029.jpg",
+    "static/media/header.scss": "/restaurant/static/media/hero-bg-desktop@2x.eb3018c2.jpg",
+    "static/media/locally-sourced-desktop@2x.04d31838.jpg": "/restaurant/static/media/locally-sourced-desktop@2x.04d31838.jpg",
+    "static/media/menu-item1.jpg": "/restaurant/static/media/menu-item1.7bd94a87.jpg",
+    "static/media/menu-item2.jpg": "/restaurant/static/media/menu-item2.81249e77.jpg",
+    "static/media/menu-item3.jpg": "/restaurant/static/media/menu-item3.22eddbf1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d0fba5f.js",
+    "static/js/2.f671bff2.chunk.js",
+    "static/css/main.1ea739ad.chunk.css",
+    "static/js/main.98fe6301.chunk.js"
+  ]
+}
