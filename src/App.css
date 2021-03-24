@@ -1,0 +1,42 @@
+* {
+    font-family: 'spartan';
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+
+.main-container {
+    margin: 0 auto;
+    padding-left: 166px;
+    padding-right: 166px;
+
+}
+
+
+h2 {
+    margin: 0;
+}
+
+
+pre {
+    padding: 0px;
+    line-height: 1;
+    margin: 0;
+}
+
+.book-button {
+    padding: 20px 60px;
+    outline: none;
+    color: white;
+    border: 0.3px solid white;
+    background-color: black;
+    cursor: pointer;
+    margin-bottom: 50px;
+}
+
+.book-button::after {
+    content: 'BOOK A TABLE';
+}

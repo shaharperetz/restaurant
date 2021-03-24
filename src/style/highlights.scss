@@ -1,0 +1,94 @@
+.highlights {
+
+    background-color: black;
+    height: 760px;
+    color: white;
+
+    & .info {
+        display: flex;
+        padding-top: 255px;
+
+
+
+        & .desc {
+            font-family: 'spartan' !important;
+            width: 50%;
+
+            & .main {
+                font-weight: bold;
+                font-size: 40px;
+            }
+
+            & .desc {
+                font-size: 18px;
+            }
+        }
+
+        .item-list {
+            width: 50%;
+
+            & .item-list-container {
+
+
+                & .item-preview {
+                    display: flex;
+                    height: 30%;
+                    position: relative;
+                    padding-bottom: 25px;
+                    margin-bottom: 25px;
+
+
+
+                    &:not(:last-child) {
+                        border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+
+                    }
+
+                    & p {
+                        margin: 0;
+                    }
+
+                    & img {
+                        height: 96px;
+                        width: 160px;
+                        padding-right: 32px;
+                        margin-right: 32px;
+
+
+                    }
+
+                    & .line {
+                        position: absolute;
+                        width: 32px;
+                        height: 1px;
+                        left: 128px;
+                        bottom: 91px;
+
+                        background: #9E7F66;
+                    }
+
+                    & .item-preview-info {
+                        display: flex;
+                        flex-direction: column;
+
+                        & .main {
+                            font-style: normal;
+                            font-weight: bold;
+                            font-size: 18px;
+                            line-height: 28px;
+                        }
+
+                        & .desc {
+                            width: 75%;
+                            font-style: normal;
+                            font-weight: normal;
+                            font-size: 15px;
+                            line-height: 28px;
+                            color: grey;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

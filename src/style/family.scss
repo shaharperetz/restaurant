@@ -1,0 +1,44 @@
+.family {
+    height: 920px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    & .family-inside-conainter {
+        height: 600px;
+        width: 1100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        & img {
+            width: 50%;
+        }
+
+        & .family-details {
+
+            & .black {
+                color: black;
+            }
+
+            & .grey {
+                color: grey;
+            }
+
+
+            margin-left: 50px;
+
+            & .main {
+                font-size: 50px;
+            }
+
+            & .desc {
+                font-style: 18px;
+            }
+
+
+        }
+
+
+    }
+}

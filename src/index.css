@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "spartan-regular";
+  src: url('./assets/fonts/Spartan-Regular.ttf') local('spartan-regular') format('truetype');
+}
+
+@font-face {
+  font-family: "spartan";
+  src: url('./assets/fonts/Spartan-SemiBold.ttf') local('spartan') format('truetype');
+}
